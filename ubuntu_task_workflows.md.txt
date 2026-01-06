@@ -1,0 +1,24 @@
+# Ubuntu/Linux Task Portfolio (Sample)
+
+This repository demonstrates my understanding of Ubuntu/Linux workflows, desktop navigation, and task documentation.
+
+## Task 1: Open LibreOffice and Save a Document as PDF
+1. Open Applications menu
+2. Launch LibreOffice Writer
+3. Create a new document
+4. Save as PDF in Documents folder
+5. Take a screenshot of each step
+
+## Task 2: Play Video in VLC Media Player
+1. Open Applications menu
+2. Launch VLC Media Player
+3. Open a sample video file
+4. Play, pause, adjust volume
+5. Take screenshots to document workflow
+
+## Task 3: File Management in Ubuntu
+1. Navigate to Home → Documents
+2. Create a new folder
+3. Move or copy files between folders
+4. Rename and delete files
+5. Capture screenshots of each step
